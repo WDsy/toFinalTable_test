@@ -1,0 +1,84 @@
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:34) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:35) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:36) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:37) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:38) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:39) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:40) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:40 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:37:43 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 08:37:43 INFO ] [main] (com.xyzh.util.OperateDatabase:131) - 执行日期2016-03-10
+[2016-03-10 08:37:45 INFO ] [main] (com.xyzh.util.OperateDatabase:167) - INSERT ignore INTO t_twitter_total_final(`dateTime`,`languageType`,`level`,`monthNumber`,`language`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`cnName`,`goodCount`,`id`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:34) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:35) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:36) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:37) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:38) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:39) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:40) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:51 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:39:53 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 08:39:53 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 08:39:55 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_twitter_total_final(`dateTime`,`languageType`,`level`,`monthNumber`,`language`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`cnName`,`goodCount`,`id`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:42) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:43) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:44) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:45) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:46) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:47) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:49:04 INFO ] [main] (com.xyzh.main.testMain:48) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:42) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:43) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:44) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:45) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:46) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:47) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:02 INFO ] [main] (com.xyzh.main.testMain:48) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 08:52:05 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 08:52:05 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 08:52:07 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_twitter_total_final(`dateTime`,`languageType`,`level`,`monthNumber`,`language`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`cnName`,`goodCount`,`id`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 08:56:16 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 08:56:16 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:42) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:43) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:44) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:45) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:46) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:47) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:08 INFO ] [main] (com.xyzh.main.testMain:48) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:10:16 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 09:10:16 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:10:18 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_twitter_total_final(`dateTime`,`languageType`,`level`,`monthNumber`,`language`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`cnName`,`goodCount`,`id`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 09:14:56 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 09:14:56 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:14:58 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_ggplus_total_final(`dateTime`,`languageType`,`level`,`monthNumber`,`language`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`cnName`,`goodCount`,`id`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:42) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:43) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:44) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:45) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:46) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:47) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:11 INFO ] [main] (com.xyzh.main.testMain:48) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 09:19:14 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 09:19:14 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:19:16 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_twitter_total_final(`dateTime`,`level`,`columnId`,`monthNumber`,`language`,`title`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`goodCount`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 09:23:37 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 09:23:37 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:23:39 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_ggplus_total_final(`dateTime`,`level`,`columnId`,`monthNumber`,`language`,`title`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`goodCount`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 09:27:43 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 09:27:43 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10
+[2016-03-10 09:27:45 INFO ] [main] (com.xyzh.util.OperateDatabase:166) - INSERT ignore INTO t_ytb_total_final(`dateTime`,`level`,`columnId`,`monthNumber`,`language`,`title`,`parentId`,`commentCount`,`weekNumber`,`shareCount`,`badCount`,`goodCount`,`viewCount`,`contentCount`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:41) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:42) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:43) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:44) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:45) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:46) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:47) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:51:59 INFO ] [main] (com.xyzh.main.testMain:48) - +++++++++++++++++++++++++++++++++++++++
+[2016-03-10 10:52:03 INFO ] [main] (com.xyzh.util.OperateDatabase:129) - 执行日期2016-03-10
+[2016-03-10 10:52:03 INFO ] [main] (com.xyzh.util.OperateDatabase:130) - 执行日期2016-03-10

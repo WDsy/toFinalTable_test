@@ -1,0 +1,14 @@
+com\xyzh\testLog\TestLog4j.class
+com\xyzh\util\LogAppender.class
+com\xyzh\util\TimeUtil.class
+com\xyzh\facebook\FacebookGetFinalData.class
+com\xyzh\util\DBLinkPollForAdd.class
+com\xyzh\twitter\TwitterGetFinalData.class
+com\xyzh\main\testMain.class
+com\xyzh\bean\newOrhot.class
+com\xyzh\util\OperateDatabase.class
+com\xyzh\util\DBLinkPoll.class
+com\xyzh\util\TableWhetherExist.class
+com\xyzh\ggplus\GgplusGetFinalData.class
+com\xyzh\util\DatabaseUtil.class
+com\xyzh\youtube\YtbGetFinalData.class
